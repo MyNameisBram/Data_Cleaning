@@ -51,5 +51,3 @@ By using this technique, the algorithm can estimate the constant for missingness
 
 Proper data cleaning can save a ton of headaches down the road.
 
-# Data Cleaning Using Pandas 
-For non-trivial data sets, using Pandas, a Python data structure library, is generally a better tool to use vs. the native Pyton lists and dictionaries. 
